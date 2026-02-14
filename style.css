@@ -1,0 +1,33 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: 0;
+}
+body {
+    padding-top: 70px;
+}
+@media screen {max-width: 600px; min-width: 556px;
+    
+}
+.masthead  {
+    padding: 200px 0;
+    display: flex;
+    font-size: 200px;
+}
+
+.h{
+    
+
+
+
+}
+.page-section {
+    padding: 80px 0;
+}
+
+.portfolio-item {
+    background: #e9ecef;
+    padding: 60px 20px;
+    font-weight: bold;
+}
+
